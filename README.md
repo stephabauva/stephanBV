@@ -1,24 +1,25 @@
 # I'm Stephan, welcome!
 
-I studied Engineerign and Economics in Noumea,New Caledonia, then Finance and Strategy in Sydney, Australia and finally programming and AI in Paris, France.
+I studied Engineering and Economics in Noumea,New Caledonia, then Finance and Strategy in Sydney, Australia and finally programming and AI in Paris, France.
 I worked at Capgemini Paris as a Software Engineer for a year.
 
-### Main stuff to showcase
+## Main stuff to showcase
 
-#### Fullstack MERN responsive eCommerce website.
+### Fullstack MERN responsive eCommerce website.
 
 - mongoDB, Node.js and Express for the backend
 - React, Redux for the frontend
-- Heroku for deployment
+- Heroku for deployment 
 
 Check out the website on Heroku [<img align="center" alt="heroku" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png">][heroku]
 
-#### ML with Dagster
+### ML with Dagster
+Article introducing Directed Acyclic Graph (DAG) through Dagster with a simple ML program. <br />
+Check out the article on Hackernoon [<img align="center" alt="heroku" width="26px" src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4">][dagster]
 
-Article introducing Directed Acyclic Graph (DAG) through Dagster with a simple ML program.
-
-Check out the article on Hackernoon [<img align="center" alt="heroku" src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4">][dagster]
-
+### Sorting Visualizer
+Simple React / Redux webapp showing different sorting algorithms, hosted on GitHub Pages. <br />
+Check out the page [<img align="center" alt="heroku" width="26px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">][sortingViz]
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -52,3 +53,4 @@ Check out the article on Hackernoon [<img align="center" alt="heroku" src="https
 [linkedin]: https://www.linkedin.com/in/stephan-baudry/
 [discord]: https://discordapp.com/users/567363754988404762
 [dagster]: https://hackernoon.com/a-quick-introduction-to-machine-learning-with-dagster-gh53336m
+[sortingViz]: https://stephanbv.github.io/sorting_visualizer_react/
