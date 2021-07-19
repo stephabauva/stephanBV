@@ -30,18 +30,20 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<br /> <sub>NoSQL</sub>
 
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![GCP](https://img.shields.io/badge/GCP-%20-blue)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/GCP-%20-blue)
+<a><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /></a>
+<a><img align="left" alt="django" width="22px" src="https://camo.githubusercontent.com/a499f82c059b2fd21339974a9a7dfe2b72180faa14c9d420c02806c2e9b4362e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646a616e676f70726f6a6563742e737667" /></a>
 ---
 
 ### 🙋‍♂️ Connect with me:
