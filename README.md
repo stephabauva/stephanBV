@@ -74,14 +74,14 @@ Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.sh
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
-    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/static/v1?style=flat&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+  <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/static/v1?style=flat&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=" />
 </p>
 
 
