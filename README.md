@@ -7,6 +7,11 @@ I worked at Capgemini Paris as a Software Engineer for a year.
 
 ### Fullstack MERN responsive eCommerce website.
 
+<p align="left">
+  <a href="https://github.com/stephanBV/fullstack-eShop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=fullstack-eShop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="fullstack-eShop"></a>
+ </p>
+
+
 - mongoDB, Node.js and Express for the backend
 - React, Redux for the frontend
 - Heroku for deployment 
