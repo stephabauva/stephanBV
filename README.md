@@ -38,7 +38,7 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and libraries
+### 🧩 Frameworks and libraries
 
 <p>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>  
@@ -91,5 +91,4 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
 [sortingViz]: https://stephanbv.github.io/sorting_visualizer_react/
 [tracelab]: https://www.tracelabs.org/
 
-
-
+[links-for-logos1]: https://github.com/Ileriayo/markdown-badges
