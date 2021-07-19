@@ -1,4 +1,7 @@
-# I'm Stephan, welcome!
+<h3 align="center">
+  Hey there! Welcome!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 I studied Engineering and Economics in Noumea,New Caledonia, then Finance and Strategy in Sydney, Australia and finally programming and AI in Paris, France.
 I worked at Capgemini Paris as a Software Engineer for a year.
@@ -15,8 +18,27 @@ I worked at Capgemini Paris as a Software Engineer for a year.
 
 
 Check out the MERN eShop on Heroku [<img align="center" alt="heroku" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_16x16.png">][heroku] <br />
-Check out the article on Hackernoon [<img align="center" alt="heroku" width="16px" src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4">][dagster] <br />
+Check out the ML with DAGs article on Hackernoon [<img align="center" alt="heroku" width="16px" src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4">][dagster] <br />
 Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" width="16px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">][sortingViz]
+<br />
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/endpoint?url=https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,16 +54,9 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
 
 <br />
 
-### Future updates
-
-🔑 Authentication: register, login, forgot password, reset password, with email <br>
-💰 Stripe payment <br>
-🤖 AI recommendation <br >
-⚡️ Integration of Next.js
-
 ---
 
-### Connect with me:
+### 🙋‍♂️ Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
 [<img align="left" alt="discord" width="22px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />][discord]
