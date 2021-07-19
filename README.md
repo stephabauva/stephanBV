@@ -2,6 +2,7 @@
   Hey there! Welcome to stephanBV's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<br />
 
 👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷. <br />
 👷‍♂️ I worked at Capgemini Paris as a Software Engineer for a year. <br />
