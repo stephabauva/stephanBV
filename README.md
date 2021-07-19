@@ -8,23 +8,15 @@ I worked at Capgemini Paris as a Software Engineer for a year.
 ### Fullstack MERN responsive eCommerce website.
 
 <p align="left">
-  <a href="https://github.com/stephanBV/fullstack-eShop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=fullstack-eShop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="fullstack-eShop"></a>
+  <a href="https://github.com/stephanBV/fullstack-eShop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=fullstack-eShop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="fullstack-eShop"></a>
+  <a href="https://github.com/stephanBV/ML_with_DAGs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=ML_with_DAGs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="ML_with_DAGs"></a>
+  <a href="https://github.com/stephanBV/sorting_visualizer_react"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=sorting_visualizer_react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="sorting_visualizer_react"></a>
  </p>
 
 
-- mongoDB, Node.js and Express for the backend
-- React, Redux for the frontend
-- Heroku for deployment 
-
-Check out the website on Heroku [<img align="center" alt="heroku" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_32x32.png">][heroku]
-
-### ML with Dagster
-Article introducing Directed Acyclic Graph (DAG) through Dagster with a simple ML program. <br />
-Check out the article on Hackernoon [<img align="center" alt="heroku" width="26px" src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4">][dagster]
-
-### Sorting Visualizer
-Simple React / Redux webapp showing different sorting algorithms, hosted on GitHub Pages. <br />
-Check out the page [<img align="center" alt="heroku" width="26px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">][sortingViz]
+Check out the MERN eShop on Heroku [<img align="center" alt="heroku" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_16x16.png">][heroku] <br />
+Check out the article on Hackernoon [<img align="center" alt="heroku" width="16px" src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4">][dagster] <br />
+Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" width="16px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">][sortingViz]
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
