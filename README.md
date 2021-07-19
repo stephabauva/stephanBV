@@ -8,7 +8,7 @@
 🦾 I like Python and JavaScript, A.I. and OSINT. <br />
 <br />
 [<img align="left" alt="tracelab" width="22px" src="https://uploads-ssl.webflow.com/5f1b6caefc9c7e190b047e08/5f34ec40b2ae3fb816d50f3a_TL%20Logo.svg" />][tracelab]
- *Trace Labs is a nonprofit organization whose mission is to **accelerate the family reunification of missing persons** while training members in the tradecraft of open source intelligence (OSINT).*
+ ***❗️Trace Labs** is a nonprofit organization whose mission is to **accelerate the family reunification of missing persons** while training members in the tradecraft of open source intelligence (OSINT).❗️*
 
 ## Lastest stuff
 
