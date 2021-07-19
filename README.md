@@ -5,7 +5,7 @@
 <br />
 
 👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷. <br />
-👷‍♂️ I worked at Capgemini Paris as a Software Engineer for a year. <br />
+👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>Paris as a Software Engineer for a year. <br />
 🦾 I like Python and JavaScript, A.I. and OSINT. <br />
 <br />
 [<img alt="tracelab" width="22px" src="https://uploads-ssl.webflow.com/5f1b6caefc9c7e190b047e08/5f34ec40b2ae3fb816d50f3a_TL%20Logo.svg" />][tracelab]
@@ -47,16 +47,17 @@ Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.sh
 <p>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>  
   <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"></a>
-    <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flate&logo=django&logoColor=white"/>
-    <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"/>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
+  <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"></a>
+  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flate&logo=django&logoColor=white"/>
+  <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest%20-%230A9EDC.svg?logo=pytest&logoColor=white"></a>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"/>
+  <img alt="scrum" src="https://img.shields.io/badge/Scrum-%20-blueviolet"/>
 </p>
 
 ### 🗄️ Databases and cloud hosting
