@@ -1,14 +1,16 @@
 <h3 align="center">
-  Hey there! Welcome!
+  Hey there! Welcome to stephanBV's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-I studied Engineering and Economics in Noumea,New Caledonia, then Finance and Strategy in Sydney, Australia and finally programming and AI in Paris, France.
-I worked at Capgemini Paris as a Software Engineer for a year.
+👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷. <br />
+👷‍♂️ I worked at Capgemini Paris as a Software Engineer for a year. <br />
+🦾 I like Python and JavaScript, A.I. and OSINT. <br />
+<br />
+[<img align="left" alt="tracelab" width="22px" src="https://uploads-ssl.webflow.com/5f1b6caefc9c7e190b047e08/5f34ec40b2ae3fb816d50f3a_TL%20Logo.svg" />][tracelab]
+ *Trace Labs is a nonprofit organization whose mission is to **accelerate the family reunification of missing persons** while training members in the tradecraft of open source intelligence (OSINT).*
 
-## Main stuff to showcase
-
-### Fullstack MERN responsive eCommerce website.
+## Lastest stuff
 
 <p align="left">
   <a href="https://github.com/stephanBV/fullstack-eShop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=fullstack-eShop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="fullstack-eShop"></a>
@@ -29,30 +31,16 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![GCP](https://img.shields.io/endpoint?url=https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667)
+![GCP](https://img.shields.io/badge/GCP-%20-blue)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
-### Languages and Tools
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
 
 ---
 
@@ -66,3 +54,4 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
 [discord]: https://discordapp.com/users/567363754988404762
 [dagster]: https://hackernoon.com/a-quick-introduction-to-machine-learning-with-dagster-gh53336m
 [sortingViz]: https://stephanbv.github.io/sorting_visualizer_react/
+[tracelab]: https://www.tracelabs.org/
