@@ -66,7 +66,7 @@ Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.sh
   <img alt="scrum" src="https://img.shields.io/badge/Scrum-%20-blueviolet"/>
 </p>
 
-### 🗄️ Databases and cloud hosting
+### 💾 Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -77,7 +77,7 @@ Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.sh
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### 💻 Software and tools
+### 🧰 Software and tools
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
