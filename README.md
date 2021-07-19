@@ -21,10 +21,13 @@
  </p>
 
 
-Check out the MERN eShop on Heroku [<img align="center" alt="heroku" src="https://raw.githubusercontent.com/heroku/favicon/master/favicon.iconset/icon_16x16.png">][heroku] <br />
-Check out the ML with DAGs article on Hackernoon [<img align="center" alt="heroku" width="16px" src="https://avatars.githubusercontent.com/u/38445269?s=200&v=4">][dagster] <br />
-Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" width="16px" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667">][sortingViz]
+Check out the MERN eShop on [<img align="center" alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white">][mern-eshop-heroku] <br />
+Check out the ML with DAGs article on [<img align="center" alt="heroku" src="https://img.shields.io/static/v1?style=flat&message=Hacker+Noon&color=222222&logo=Hacker+Noon&logoColor=00FE00&label=">][dagster] <br />
+Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">][sortingViz]
 <br />
+
+### 📝 Media Platform
+<a href="https://hackernoon.com/u/stephanbv"><img alt="Bash" src="https://img.shields.io/static/v1?style=flat&message=Hacker+Noon&color=222222&logo=Hacker+Noon&logoColor=00FE00&label="></a>
 
 ### 👨‍💻 Programming languages
 
@@ -75,6 +78,9 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+    <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/static/v1?style=flat&message=Prettier&color=222222&logo=Prettier&logoColor=F7B93E&label=" />
 </p>
 
 
@@ -85,12 +91,14 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
 [<img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
 [<img align="left" alt="discord" width="22px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />][discord]
 
-[heroku]: https://peaceful-anchorage-33719.herokuapp.com/
+[hackernoon]: https://hackernoon.com/u/stephanbv
+[mern-eshop-heroku]: https://peaceful-anchorage-33719.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/stephan-baudry/
 [discord]: https://discordapp.com/users/567363754988404762
 [dagster]: https://hackernoon.com/a-quick-introduction-to-machine-learning-with-dagster-gh53336m
 [sortingViz]: https://stephanbv.github.io/sorting_visualizer_react/
 [tracelab]: https://www.tracelabs.org/
 
-[links-for-logos1]: https://github.com/Ileriayo/markdown-badges
-[shields.io]: https://shields.io/
+[links-for-icons1]: https://github.com/Ileriayo/markdown-badges
+[link-for-icons2]: https://github.com/progfay/shields-with-icon
+[link-to-shields.io]: https://shields.io/
