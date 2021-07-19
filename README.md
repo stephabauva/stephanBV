@@ -93,3 +93,4 @@ Check out the sorting viz' on GitHub Pages [<img align="center" alt="heroku" wid
 [tracelab]: https://www.tracelabs.org/
 
 [links-for-logos1]: https://github.com/Ileriayo/markdown-badges
+[shields.io]: https://shields.io/
