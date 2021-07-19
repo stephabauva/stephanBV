@@ -5,7 +5,7 @@
 <br />
 
 👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷. <br />
-👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>Paris as a Software Engineer for a year. <br />
+👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>as a Software Engineer for a year. <br />
 🦾 I like Python and JavaScript, A.I. and OSINT. <br />
 <br />
 [<img alt="tracelab" width="22px" src="https://uploads-ssl.webflow.com/5f1b6caefc9c7e190b047e08/5f34ec40b2ae3fb816d50f3a_TL%20Logo.svg" />][tracelab]
