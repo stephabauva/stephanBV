@@ -4,9 +4,11 @@
 </h3>
 <br />
 
-👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷. <br />
-👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>as a Software Engineer for a year. <br />
-🦾 I like Python and JavaScript, A.I. and OSINT. <br />
+👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷.  
+👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>as a Software Engineer for a year.  
+🦾 I like Python and JavaScript, A.I. and OSINT.  
+
+🐬 And i'm starting to dig Next.js and TypeScript. 
 
 ---
 
