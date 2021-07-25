@@ -77,6 +77,8 @@ Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.sh
 ### 💾 Databases and cloud hosting
 
 <p>
+    <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=badge&logo=vercel&logoColor=white"/>
+  <img alt="contentful" src="https://img.shields.io/static/v1?style=badge&message=Contentful&color=2478CC&logo=Contentful&logoColor=FFFFFF&label="/>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
