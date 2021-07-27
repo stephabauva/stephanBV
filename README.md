@@ -6,7 +6,7 @@
 
 👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷.  
 👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>as a Software Engineer for a year.  
-🦾 I like Python and JavaScript, A.I. and OSINT.  
+🦾 I like <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"/> and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E), A.I. and OSINT.  
 
 🐬 And i'm starting to dig Next.js and TypeScript. 
 
@@ -63,8 +63,10 @@ Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.sh
   <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=flat&logo=next.js&logoColor=white"/>
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/materialui-%230081CB.svg?style=flat&logo=material-ui&logoColor=white"/>
+  <img alt="flask" src="https://img.shields.io/static/v1?style=badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flate&logo=django&logoColor=white"/>
   <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=badge&logo=scikit-learn&logoColor=white" />
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
@@ -90,7 +92,9 @@ Check out the sorting viz' [<img align="center" alt="heroku" src="https://img.sh
 ### 🧰 Software and tools
 
 <p>
+  <img alt="google-colab" src="https://img.shields.io/static/v1?style=badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label="/>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
+  <img alt="jira" src="https://img.shields.io/static/v1?style=badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label="/>
   <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
