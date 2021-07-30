@@ -24,7 +24,7 @@
   
 
 <p align="left">
-  <a href="https://github.com/stephanBV/django-rest-api-01"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=django-rest-api-01&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="django-rest-api-01"></a>
+  <a href="https://github.com/stephanBV/django-rest-api-01"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=django-rest-api-01&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="django-rest-api"></a>
   <a href="https://github.com/stephanBV/fullstack-eShop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=fullstack-eShop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="fullstack-eShop"></a>
   <a href="https://github.com/stephanBV/ML_with_DAGs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=ML_with_DAGs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="ML_with_DAGs"></a>
  </p>
