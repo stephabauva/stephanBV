@@ -118,7 +118,7 @@ Check out the ML with DAGs article on [<img align="center" alt="heroku" src="htt
 [<img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
 [<img align="left" alt="discord" width="22px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />][discord]
 
-[django-res-api-01]: https://django-rest-todo-app.herokuapp.com/swagger/
+[django-res-api-01]: https://django-rest-todo-app.herokua
 [hackernoon]: https://hackernoon.com/u/stephanbv
 [mern-eshop-heroku]: https://peaceful-anchorage-33719.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/stephan-baudry/
