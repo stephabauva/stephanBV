@@ -40,7 +40,7 @@ Check out the ML with DAGs article on [<img align="center" alt="heroku" src="htt
  </p>
  
  Check out the sorting visualizer on [<img align="center" alt="heroku" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">][sortingViz]
-<br />
+<br /> 
 
 
 ### 📝 Media Platform
