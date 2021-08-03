@@ -2,7 +2,7 @@
   Hey there! Welcome to stephanBV's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<br />
+<br /> 
 
 👨‍🎓 I studied Engineering and Economics in 🇳🇨, then Finance and Strategy in 🇦🇺 and finally programming and AI in 🇫🇷.  
 👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>as a Software Engineer for a year.  
