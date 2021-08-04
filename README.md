@@ -8,7 +8,7 @@
 👷‍♂️ I worked at<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" align="center" height="40" width="140" cropalign="center" src="https://www.logo.wine/a/logo/Capgemini/Capgemini-Logo.wine.svg"></a>as a Software Engineer for a year.  
 🦾 I like <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"/> and ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=badge&logo=javascript&logoColor=%23F7DF1E), A.I. and OSINT.  
 
-🐬 And i'm starting to dig Next.js and TypeScript. 
+🐬 And i'm starting to dig Next.js, FastAPI and contract-first approach 🤔. 
 
 ---
 
