@@ -23,13 +23,15 @@
 
 <p align="left">
   <a href="https://github.com/stephanBV/ML_with_DAGs"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=ML_with_DAGs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="ML_with_DAGs"></a>
-  <a href="https://github.com/stephanBV/django-rest-api-01"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=django-rest-api-01&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="django-rest-api"></a>
-  <a href="https://github.com/stephanBV/fullstack-eShop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=fullstack-eShop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="fullstack-eShop"></a>
+  <a href="https://github.com/stephanBV/YU-GO"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=stephanBV&repo=YU-GO&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="YUGO"></a>
+  <a href="https://github.com/stephanBV/fullstack-eShop"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=zenbitETH&repo=City-Passport&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="fullstack-eShop"></a>
  </p>
 
+## Some other stuff
+
+Check out the ML with DAGs article on [<img align="center" alt="heroku" src="https://img.shields.io/static/v1?style=flat&message=Hacker+Noon&color=222222&logo=Hacker+Noon&logoColor=00FE00&label=">][dagster] <br />
 Check out the Django API on [<img align="center" alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white">][django-res-api-01] <br />
 Check out the MERN eShop on [<img align="center" alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white">][mern-eshop-heroku] <br />
-Check out the ML with DAGs article on [<img align="center" alt="heroku" src="https://img.shields.io/static/v1?style=flat&message=Hacker+Noon&color=222222&logo=Hacker+Noon&logoColor=00FE00&label=">][dagster] <br />
 
 
 <p align="left">
